@@ -22,7 +22,7 @@ repository               : "chriscai27/chriscai27.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.png"
+  avatar           : "headshot.jpg"
   name             : "Xinyao Cai (Chris)"
   pronouns         : # example: "she/her"  
   bio              : "PhD student @ UW-Madison"
