@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "PhD student at UW-Madison"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : in/Xinyao-Cai #Username
+  linkedin         : Xinyao-Cai #Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
